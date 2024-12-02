@@ -1,5 +1,5 @@
 
-## **SkillTrade **
+## **SkillTrade**
 
 ### **1. Overview**
 SkillTrade is a **peer-to-peer (P2P)** platform designed to connect users who want to share their knowledge (Earners) and users who wish to acquire new skills (Learners). The platform facilitates real-time learning and teaching via video calls and includes features like skill verification, scheduling classes, and certification on completion. SkillTrade aims to help Earners monetize their skills and offers a flexible, scalable learning model for Learners.
